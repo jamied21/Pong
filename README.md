@@ -27,6 +27,9 @@ This Unity project is a simple implementation of the classic Pong game, allowing
 5. **Enjoy the Game!**
 
 ## Screenshots
-Include some screenshots of your game in action. You can add them to a dedicated `Screenshots` folder in your repository.
+![PongPic3](https://github.com/jamied21/Pong/assets/53196549/c6663e47-f0da-47b5-932e-d7b4315f4bad)
+![PongPic1](https://github.com/jamied21/Pong/assets/53196549/34daa733-3743-4744-ba78-0ff67db88f74)
+![PongPic2](https://github.com/jamied21/Pong/assets/53196549/a9367afe-ef89-43af-94b5-3fb1a0054971)
+
 
 Happy Gaming!
