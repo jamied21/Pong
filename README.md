@@ -23,6 +23,7 @@ This Unity project is a simple implementation of the classic Pong game, allowing
     - Player 1: Use the [W] and [S] keys to move up and down.
     - Player 2: Use the arrow keys to move up and down.
     - (Optional) AI Opponent: In single-player mode, the AI controls one of the paddles. This can be done by ticking or unticking the Racket Player 2 scripts in the Unity Editor.
+    - First player to reach 5 points wins!
 
 5. **Enjoy the Game!**
 
